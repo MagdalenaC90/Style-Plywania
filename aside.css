@@ -1,0 +1,17 @@
+.aside {
+    text-decoration: none;
+    background-color: rgb(61, 109, 105);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 5px 5px 10px #ccc;
+    text-align: left;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.aside__link {
+    text-decoration: none;
+    text-shadow: none;
+    color: antiquewhite;
+    padding: 15px;
+}

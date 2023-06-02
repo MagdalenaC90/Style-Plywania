@@ -1,0 +1,171 @@
+<body class="js-body">
+
+    <header>
+        <h1 class="header">5 najpopularniejszych technik pływania</h1>
+
+        <button class=" button"> Zmien kolor tla</button>
+        <button class=" buttonHeader">Zmien kolor Naglowka </button>
+
+    </header>
+    <hr class="line">
+    <nav class="navigation">
+
+        <a class="navigation__link"
+            href="file:///C:/dev/example-project/styleplywania/Style%20plywackie.html#stil1">Zabka</a>
+        <a class="navigation__link"
+            href="file:///C:/dev/example-project/styleplywania/Style%20plywackie.html#stil2">Kraul</a>
+        <a class="navigation__link"
+            href="file:///C:/dev/example-project/styleplywania/Style%20plywackie.html#stil3">Motylek</a>
+        <a class="navigation__link"
+            href="file:///C:/dev/example-project/styleplywania/Style%20plywackie.html#stil4">Grzbietowy</a>
+        <br>
+        <a class="navigation__link"
+            href="file:///C:/dev/example-project/styleplywania/Style%20plywackie.html#caption">Polacy — medaliści
+            olimpijscy w pływaniu</a>
+    </nav>
+    <hr class="line">
+    <img class="image__main" src="https://i.ibb.co/G2xRbLT/plywak.png"> </img>
+    <br>
+    <p class="article__main"> Klasyczne style pływackie to <i>kraul, styl klasyczny (żabka), grzbietowy i
+            motylkowy</i>.
+        Wszystkie wymagają
+        dobrego opanowania techniki, dlatego najlepiej uczyć się ich pod okiem
+        <strong>doświadczonego</strong>
+        instruktora. Samodzielna nauka może przynieść rezultaty, jednak równie często utrwala złe nawyki,
+        które w
+        dłuższej perspektywie szkodzą kręgosłupowi zamiast go wzmacniać.
+    </p>
+    <h2 class="heading__second"> Najpopularniejsze style pływackie:</h2>
+
+    <ul>
+        <li class="list"> Zabka </li>
+        <p class="article" id="stil1">Jednym z najbardziej popularnych i lubianych sposobów pływania jest styl
+            klasyczny, zwany potocznie żabką. Choć na pozór pływanie żabką wydaje się banalnie proste, to w
+            praktyce prawidłowe opanowanie stylu
+            klasycznego może zająć trochę czasu. Poprawne pływanie żabką wymaga świetnej koordynacji rąk i nóg.
+            Pływając stylem klasycznym, należy pamiętać o tym,aby w
+            fazie wyleżenia trzymać głowę w wodzie, a następuje faza napędowa, wynurzyć ją pamiętając o
+            synchronizacji z pracą nóg i rąk.</p>
+
+
+        <img class="image" width="200" height="200" src="https://i.postimg.cc/8cFzff8r/zabka.webp" alt="zabka"></img>
+        <img class="image" width="200" height="200" src="https://i.postimg.cc/d0H77Y7p/zabka2.jpg" alt="zabka2"></img>
+        <hr class="line">
+
+        <li class="list"> Kraul</li>
+
+        <p class="article" id="stil2"> Kraul, znany także jako styl dowolny, jest najszybszym stylem pływania.
+            Pływanie kraulem
+            angażuje wiele
+            partii ciała. Charakterystyczną cechą kraula jest naprzemienna praca
+            ramion, które imitują wiosła. To właśnie one odpowiadają na tempo pływania. Z kolei, które wykonują
+            pionowy ruch nożycowy, mają za zadanie utrzymywać ciało w równowadze. Pływając kraulem, głowa
+            powinna
+            znajdować się w wodzie, a do jej wynurzenia powinno dochodzić wyłącznie w chwili zaczerpnięcia
+            oddechu. Wyjątkiem od tej
+            reguły jest kraul ratowniczy, podczas którego głowa pływaka znajduje się nad powierzchnią wody.</p>
+
+        <img class="image" width="200" height="200" src="https://i.postimg.cc/9fnMmYKj/kraul.jpg" alt="kraul"></img>
+        <img class="image" width="200" height="200" src="https://i.postimg.cc/90GFB5MW/kraul2.jpg" alt="kraul2"> </img>
+        <hr class="line">
+        <li class="list">Motylek </li>
+        <p class="article" id="stil3">Styl
+            motylkowy, zwany rowniez delfinem. Jest to najtrudniejszy do opanowania styl, którym zwykle pływają
+            tylko sportowcy lub osoby o
+            naprawdę wysokim poziomie zaawansowania. Aby poprawnie wykonywać ruchu charakterystyczne dla stylu
+            motylkowego,
+            pływak musi odznaczać się naprawdę sporą siłą, elastycznością i umiejętnością koordynacji ruchów.
+            Ruchy,
+            które wykonuje się podczas pływania delfinem, przypominają ruchy tego ssaka (stąd też wzięła się
+            jego
+            nazwa). Charakterystyczną cechą tego stylu są koliste ruchy ramion wykonywane nad powierzchnią wody.
+            Pod wodą odbywa się kopnięcie za pomocą złączonych ze sobą nóg.</p>
+
+        <img class="image" width="200" height="200" src="https://i.postimg.cc/dtY0V1HD/motylek.jpg" alt="motylek"></img>
+        <img class="image" width="200" height="200" src="https://i.postimg.cc/65t9NPqv/motylek2jpg.jpg"
+            alt="motylek2jpg">
+        </img>
+
+        <hr class="line">
+        <li class="list"> Styl Grzbietowy</li>
+        <p class="article" id="stil4">Styl grzbietowy jest jednym z niewielu stylów pływania, w którym głowa
+            pływaka uniesiona jest nad
+            powierzchnię wody przez cały czas. Pływanie stylem grzbietowym odbywa się na plecach i jest to jedna
+            z najprostszych do opanowania technik. Polega ona na naprzemiennym wykonywaniu ruchów rąk i nóg
+            podczas leżenia na grzbiecie. Jest to styl, który wzmacnia mięśnie kręgosłupa i nóg.
+        </p>
+        <img class="image" width="200" height="200" src="https://i.postimg.cc/pdFNjQyv/grzbietowy.jpg" alt="grzbietowy">
+        </img>
+        <img class="image" width="200" height="200" src="https://i.postimg.cc/d3QS5GQL/grzbietowy2.jpg"
+            alt="grzbietowy2"></img>
+    </ul>
+    <hr class="line">
+    <aside class="aside">
+        <ul>
+            <a class="aside__link" href="https://www.klubben.pl/swimshop" rel="stylesheet">
+                <li> Kup sprzet plywacki <br> <em> (otwiera sie w nowej karcie)</em> </li>
+            </a>
+            <a class="aside__link" href="https://blog.sportbazar.pl/porady/7-powodow-dla-ktorych-warto-plywac/">
+                <li> 7 powodów, dla których warto pływać <em> (otwiera sie w nowej karcie)</em> </li>
+            </a>
+            <a class="aside__link"
+                href="https://www.moveakademia.pl/kalendarz-triathlonowy-2023-najwazniejsze-zawody-w-nadchodzacym-sezonie/"
+                rel="stylesheet">
+                <li> Kalendarz triathlonowy 2023 <br> <em> (otwiera sie w nowej karcie)</em> </li>
+            </a>
+        </ul>
+    </aside>
+
+    <table class="table">
+        <caption id="caption" class="table__caption"> Polacy — medaliści olimpijscy w pływaniu</caption>
+        <tbody>
+            <tr class="table__Row">
+                <th class="table__Cell__Header" scoope="col">Rok </th>
+                <th class="table__Cell__Header" scoope="col"> Medal </th>
+                <th class="table__Cell__Header" scoope="col">Medalista </th>
+                <th class="table__Cell__Header" scoope="col">Konkurencja </th>
+            </tr>
+            <tr class="table__Row">
+                <th class="table__Cell__Header" scoope="row">1980 </th>
+                <td class="table__Cell"> brązowy</td>
+                <td class="table__Cell">Agnieszka Czopek</td>
+                <td class="table__Cell">400 m stylem zmiennym kobiet</td>
+            </tr>
+            <tr class="table__Row">
+                <th class="table__Cell__Header" scoope="row">1988 </th>
+                <td class="table__Cell">brązowy</td>
+                <td class="table__Cell">Artur Wojdat</td>
+                <td class="table__Cell">400 m stylem dowolnym mężczyzn</td>
+            </tr>
+            <tr class="table__Row">
+                <th class="table__Cell__Header" scoope="row">1992 </th>
+                <td class="table__Cell">srebrny</td>
+                <td class="table__Cell">Rafał Szukała</td>
+                <td class="table__Cell">100 m stylem motylkowym mężczyzn</td>
+            </tr>
+            <tr class="table__Row">
+                <th class="table__Cell__Header" scoope="row">2004 </th>
+                <td class="table__Cell">złoty</td>
+                <td class="table__Cell">Otylia Jędrzejczak</td>
+                <td class="table__Cell">200 m stylem motylkowym kobiet</td>
+            </tr>
+            <tr class="table__Row">
+                <th class="table__Cell__Header" scoope="row">2004 </th>
+                <td class="table__Cell">srebrny</td>
+                <td class="table__Cell">Otylia Jędrzejczak</td>
+                <td class="table__Cell">400 m stylem dowolnym kobiet</td>
+            </tr>
+            <tr class="table__Row">
+                <th class="table__Cell__Header" scoope="row">2004 </th>
+                <td class="table__Cell">srebrny</td>
+                <td class="table__Cell">Otylia Jędrzejczak</td>
+                <td class="table__Cell">100 m stylem motylkowym kobiet</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr class="line">
+    <footer>Copyright 2023 Magdalena Kilar</footer>
+
+
+</body>

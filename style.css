@@ -1,0 +1,220 @@
+html {
+    box-sizing: border-box;
+    background-color: #115b62;
+    width: 100%;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.js-body {
+    padding: 0 20px;
+    max-width: 850px;
+    margin: 0 auto;
+    font-family: 'Lato';
+    font-style: italic;
+    color: antiquewhite;
+    text-align: center;
+    font-size: 30px;
+}
+
+.body {
+    padding: 0 20px;
+    max-width: 850px;
+    margin: 0 auto;
+    font-family: 'Lato';
+    font-style: italic;
+    color: antiquewhite;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.body--dark {
+    box-sizing: border-box;
+    background-color: rgba(28, 40, 54, 0.527);
+}
+
+.js-header {
+    text-decoration: dotted;
+    background-color: rgb(10 82 116);
+    text-align: center;
+    color: antiquewhite;
+    font-style: italic;
+    font-weight: 50px;
+    border: 1px solid;
+    margin: 20 auto;
+    padding: 20px;
+    border-radius: 2px;
+    box-shadow: 5px 5px 10px #ccc;
+}
+
+button {
+    border-bottom: 2px solid;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: rgb(32, 121, 143);
+    font-size: medium;
+    margin-top: 20px;
+    border-radius: 0 20px 0 20px;
+    box-shadow: 5px 5px 10px #ccc;
+    color: rgb(228, 168, 89);
+}
+
+.header--purple {
+    color: rgb(9, 4, 54);
+}
+
+
+.navigation {
+    margin-bottom: 70px;
+    margin-top: 70px;
+    box-shadow: 5px 5px 10px #ccc;
+    color: antiquewhite;
+}
+
+.navigation__link {
+    padding-right: 15px;
+    text-decoration: none;
+    box-shadow: 5px 5px 10px #ccc;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    color: antiquewhite;
+}
+
+.main__image {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #ccc;
+    width: 100%;
+}
+
+.main__article {
+    margin-top: 20px;
+}
+
+.main__heading {
+    text-align: center;
+    background-color: rgb(10 82 116);
+    border: 2px solid;
+    margin: 0 auto;
+    padding: 26px;
+    box-shadow: 5px 5px 10px #ccc;
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+.section__list {
+    text-align: left;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    text-shadow: 5px 5px 10px #ccc;
+    color: antiquewhite;
+}
+
+.section__text {
+    color: #fff;
+    text-align: left;
+    padding-left: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 5px 5px 10px #ccc;
+    font-family: 'Lato';
+    font-style: italic;
+}
+
+.section__image {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #ccc;
+}
+
+
+.line {
+    line-height: 45px;
+    text-shadow: 5px 5px 10px #ccc;
+}
+
+.aside {
+    text-decoration: none;
+    background-color: rgb(10 82 116);
+    margin-top: 80px;
+    margin-bottom: 50px;
+    box-shadow: 5px 5px 10px #ccc;
+    text-align: left;
+
+}
+
+.aside__link {
+    text-decoration: none;
+    text-shadow: none;
+    color: antiquewhite;
+    padding: 15px;
+}
+
+.aside__link:active {
+    background-color: #2d5472;
+}
+
+.table__row:hover {
+    background: rgb(184, 180, 180);
+}
+
+.table {
+    font-size: 30px;
+    color: antiquewhite;
+    font-family: sans-serif;
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    padding: 2px;
+    overflow-x: auto;
+    box-shadow: 5px 5px 10px #ccc;
+    width: 100%;
+}
+
+.table__cell {
+    border: 2px solid #dfd8d8;
+    padding: 20px;
+    text-align: center;
+    vertical-align: middle;
+    color: antiquewhite;
+    font-size: 22px;
+}
+
+.table__caption {
+    background-color: rgb(10 82 116);
+    caption-side: top;
+    text-align: center;
+    margin-bottom: 20px;
+    border: 2px solid;
+    color: antiquewhite;
+
+}
+
+.table__header {
+    background-color: rgba(52, 138, 151, 0.836);
+    color: antiquewhite;
+    font-weight: normal;
+    border: 2px solid;
+    padding: 20px;
+    text-size-adjust: 20px;
+}
+
+
+.table__row:nth-child(even) {
+    background: rgb(121, 182, 174);
+}
+
+.table__row:hover {
+    background: rgba(184, 180, 180, 0.541);
+}
+
+footer {
+    background-color: rgb(10 82 116);
+    color: antiquewhite;
+}

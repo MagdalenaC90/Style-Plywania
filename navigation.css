@@ -1,0 +1,15 @@
+.navigation {
+    margin-bottom: 70px;
+    margin-top: 70px;
+    box-shadow: 5px 5px 10px #ccc;
+    color: antiquewhite;
+}
+
+.navigation__link {
+    padding-right: 15px;
+    text-decoration: none;
+    box-shadow: 5px 5px 10px #ccc;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    color: antiquewhite;
+ }
